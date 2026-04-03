@@ -241,7 +241,9 @@ function App() {
               </div>
             </div>
             <div className="about-image">
-              <img src="/fachada%20de%20uma%20loja%20.png" alt="Nossa Loja" className="loja-image" />
+              <div className="loja-placeholder" aria-label="Imagem ilustrativa da loja">
+                Fachada da Loja
+              </div>
             </div>
           </div>
         </div>
@@ -375,84 +377,84 @@ function App() {
               
               {/* Card 1 */}
               <div className="gallery-card carousel-card">
-                <img src="/camisetaPolo.jpg" alt="Camisetas e Polos" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Camisetas e Polos</div>
                 <h3 className="card-title">Camisetas e Polos</h3>
                 <p className="card-description">Uniformes personalizados com bordados e estampas.</p>
               </div>
 
               {/* Card 2 */}
               <div className="gallery-card carousel-card">
-                <img src="/bone%20bordado.webp" alt="Bonés e Acessórios" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Bonés e Acessórios</div>
                 <h3 className="card-title">Bonés e Acessórios</h3>
                 <p className="card-description">Logotipos e marcas bordadas com precisão.</p>
               </div>
 
               {/* Card 3 */}
               <div className="gallery-card carousel-card">
-                <img src="/aventalBordado.jpg" alt="Aventais" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Aventais</div>
                 <h3 className="card-title">Aventais</h3>
                 <p className="card-description">Todo tipo de avental para sua equipe.</p>
               </div>
 
               {/* Card 4 */}
               <div className="gallery-card carousel-card">
-                <img src="/image.png" alt="Jaquetas Personalizadas" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Jaquetas Personalizadas</div>
                 <h3 className="card-title">Jaquetas Personalizadas</h3>
                 <p className="card-description">Estilo e conforto com bordados exclusivos.</p>
               </div>
 
               {/* Card 5 */}
               <div className="gallery-card carousel-card">
-                <img src="/camisetaSocial.webp" alt="Camisas Sociais" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Camisas Sociais</div>
                 <h3 className="card-title">Camisas Sociais</h3>
                 <p className="card-description">Elegância para eventos e empresas.</p>
               </div>
 
               {/* Card 6 */}
               <div className="gallery-card carousel-card">
-                <img src="/moletom.jpg" alt="Moletons Bordados" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Moletons Bordados</div>
                 <h3 className="card-title">Moletons Bordados</h3>
                 <p className="card-description">Conforto e identidade visual para sua equipe.</p>
               </div>
 
               {/* Card 7 */}
               <div className="gallery-card carousel-card">
-                <img src="/camisetaTime.jpg" alt="Camisas de Time" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Camisas de Time</div>
                 <h3 className="card-title">Camisas de Time</h3>
                 <p className="card-description">Uniformes esportivos personalizados.</p>
               </div>
 
               {/* Card 8 */}
               <div className="gallery-card carousel-card">
-                <img src="/jaleco.jpeg" alt="Jalecos Profissionais" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Jalecos Profissionais</div>
                 <h3 className="card-title">Jalecos Profissionais</h3>
                 <p className="card-description">Proteção e estilo para profissionais da saúde.</p>
               </div>
 
               {/* Card 9 */}
               <div className="gallery-card carousel-card">
-                <img src="/camisetaEvento.jpg" alt="Camisas de Evento" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Camisas de Evento</div>
                 <h3 className="card-title">Camisas de Evento</h3>
                 <p className="card-description">Uniformes para feiras, congressos e promoções.</p>
               </div>
 
               {/* Card 10 */}
               <div className="gallery-card carousel-card">
-                <img src="/colete.jpg" alt="Coletes Personalizados" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Coletes Personalizados</div>
                 <h3 className="card-title">Coletes Personalizados</h3>
                 <p className="card-description">Praticidade e identidade visual para sua equipe.</p>
               </div>
 
               {/* Card 11 */}
               <div className="gallery-card carousel-card">
-                <img src="/cal%C3%A7aBlim.webp" alt="Calças Brim" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Calças Brim</div>
                 <h3 className="card-title">Calças Brim</h3>
                 <p className="card-description">Proteção e conforto para sua equipe.</p>
               </div>
 
               {/* Card 12 */}
               <div className="gallery-card carousel-card">
-                <img src="/cal%C3%A7aCargo.jpg" alt="Calça Cargo" className="card-image" loading="lazy" />
+                <div className="card-image placeholder">Calça Cargo</div>
                 <h3 className="card-title">Calça Cargo</h3>
                 <p className="card-description">Praticidade, estilo e conforto para sua equipe.</p>
               </div>
