@@ -1,6 +1,6 @@
 # Bordados e silk
 
-Este é um site moderno e responsivo para a empresa CL Uniformes e Bordados, especializada em uniformes personalizados e bordados de alta qualidade, desenvolvido com React e Vite.
+Este é um site moderno e responsivo de Bordados e silk , especializada em uniformes personalizados e bordados de alta qualidade, desenvolvido com React e Vite.
 
 ## 🎯 Funcionalidades
 
